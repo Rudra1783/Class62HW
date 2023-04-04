@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
+#App_lab_GAMES{
+    background-color: rgb(205, 248, 33);
+    
+}
+.line{
+    height: 6px;
+    background-color: rgb(226, 43, 43);
+    width: 70px;
+    margin: 8px;
+}
+#Game_lab_GAMES{
+    background-color: rgb(34, 238, 88);
+}
+#Game img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top:  15px;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
